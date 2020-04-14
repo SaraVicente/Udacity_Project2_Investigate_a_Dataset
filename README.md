@@ -37,7 +37,7 @@ Project Table of Contents:
   - Summary statistics and plots communicating the final results
   - Code you used to perform the analysis
 
-2. Code you used to perform the analysis in **(.ipynb format)** [Investigate_a_Dataset.ipynb](https://github.com/SaraVicente/Udacity_Project2_Investigate_a_Dataset/blob/master/Investigate_a_Dataset.ipynb)
+2. **Python Code** you used to perform the analysis in **(.ipynb format)** [Investigate_a_Dataset.ipynb](https://github.com/SaraVicente/Udacity_Project2_Investigate_a_Dataset/blob/master/Investigate_a_Dataset.ipynb)
 
 3. The [CSV file](https://github.com/SaraVicente/Udacity_Project2_Investigate_a_Dataset/blob/master/noshowappointments-kagglev2-may-2016.csv) with the Data used for the project 
 
