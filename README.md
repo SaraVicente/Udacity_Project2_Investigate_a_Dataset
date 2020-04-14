@@ -50,11 +50,12 @@ In this project, I learned how to use the Python libraries NumPy, pandas, and Ma
 
  - Know all the steps involved in a typical data analysis process
  - How to be comfortable posing questions that can be answered with a given dataset and then answering those questions
- - How to investigate problems in a dataset and wrangle the data into a format you can use
- - Gained experience communicating the results of your analysis
- - How to use vectorized operations in NumPy and pandas to speed up your data analysis code
- - Get familiar with pandas' Series and DataFrame objects, which let you access your data more conveniently
- - How to use Matplotlib to produce plots showing your findings
+ - How to investigate problems in a dataset and wrangle the data into a format I can use
+ - Gained experience communicating the results of my analysis
+ - How to use vectorized operations in NumPy and pandas to speed up my data analysis code
+ - Get familiar with pandas' Series and DataFrame objects, which let me access the data more conveniently
+ - How to use Matplotlib to produce plots showing my findings
+
 # Author
 Sara Vicente Calle - *Initial work* - [SaraVicente](https://github.com/SaraVicente)
 
